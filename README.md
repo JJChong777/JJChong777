@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning web development and UI/UX
-- ⚡ Fun fact: I like reading and writing
+- 🌱 I’m currently learning about sutff
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/chong-jiejun-228429231/
 <!--
 **JJChong777/JJChong777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
