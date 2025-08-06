@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about sutff
+- 🌱 I’m currently learning 
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/jiejun-chong/
 <!--
 **JJChong777/JJChong777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
